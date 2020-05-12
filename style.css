@@ -1,0 +1,11 @@
+body{
+  background-color: black;
+}
+.back{
+  background: url("unnamed.jpg");
+  height: 100vh !important;
+  width: 100% !important;
+  background-repeat: no-repeat;
+  background-size:70%;
+  background-position: center;
+}
